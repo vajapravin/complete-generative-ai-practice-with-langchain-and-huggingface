@@ -1,0 +1,10 @@
+[project]
+name = "complete-generative-ai-course-with-langchain-and-huggingface"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "keras>=3.14.1",
+    "tensorflow>=2.21.0",
+]
